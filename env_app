@@ -1,0 +1,6 @@
+DEBUG=on
+DB_NAME=news_parse_db
+DB_USER=news_parse_admin
+DB_PASSWORD=O6pOl9mKHtuIAr6y
+DB_HOST=db
+DB_PORT=5432
